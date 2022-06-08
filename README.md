@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnnicholson-15
-- 👀 I’m interested in ... maker tech and natural environments.
-- 🌱 I’m currently learning ... Geographic Information Systems.
-- 💞️ I’m looking to collaborate on ... ArcPy customization!
+- 👀 I’m interested in ... maker-tech and natural environments.
+- 🌱 I’m currently learning ... Python for Data Science.
+- 💞️ I’m looking to collaborate on ... ArcPy automation!
 - 📫 How to reach me ... johnnicholson_15@outlook.com 
 
 <!---
